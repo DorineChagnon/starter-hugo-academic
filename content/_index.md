@@ -250,7 +250,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you want more information or have questions you can contact through the follwing form:
       # Contact (add or remove contact options as necessary)
       email: dorine.chagnon@doctorant.uca.fr
       #phone: 888 888 88 88
