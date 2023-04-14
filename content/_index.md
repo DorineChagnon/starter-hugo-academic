@@ -1,13 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-04-13
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Dorine CHAGNON
       image:
         filename: hero-academic.png
       cta:
