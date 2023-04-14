@@ -44,23 +44,63 @@ sections:
           company: University of Clermont-Auvergne
           company_url: 'https://www.uca.fr/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Aurillac
+          date_start: '2022-10-01'
+          date_end: '2025-10-01'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Research in network security and cryptography
+              * Teaching
+        - title: Intern in cryptology
+          company: Harmonic
+          company_url: 'https://www.harmonicinc.com/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Cesson Sévigné (France)
+          date_start: '2022-03'
+          date_end: '2022-08'
+          description: Implementation of a cryptographic toolkit to protect the sensitive data of the products in the video chain.
+          
+       - title: Intern in data engineering
+          company: Veolia Nordics
+          company_url: 'https://www.veolia.com'
+          company_logo: org-x
+          location: Stockholm (Sweden)
+          date_start: '2020-06'
+          date_end: '2020-08'
+          description: Data studies of unpaid invoices and profit and loss in order to produce reports that meet customer needs.
+          
+          
+       - title: Intern in data science
+          company: Veolia S.A.
+          company_url: 'https://www.veolia.com'
+          company_logo: org-x
+          location: Paris (France)
+          date_start: '2019-06'
+          date_end: '2019-07'
+          description: Study of time series on water data in order to forecast water consumption and detect leaks in the drinkable water network.
+          
+       - title: Intern in computer science applied to neuroscience
+          company: Paris Descartes University
+          company_url: 'https://u-paris.fr/en/'
+          company_logo: org-x
+          location: Paris (France)
+          date_start: '2017-06'
+          date_end: '2017-07'
+          description: |2-
+              Angle calculation and motion recording with Codamotion software.
+              Training workshop on virtual reality to study and heal the brain.
+          
+       - title: Intern in netwrok
+          company: Paris Diderot University
+          company_url: 'https://u-paris.fr/en/'
+          company_logo: org-x
+          location: Paris (France)
+          date_start: '2016-06'
+          date_end: '2016-06'
+          description: |2-
+              Installation and administration of experimental routers using Babel and HNCP (Home Networking Control Protocol) protocols.
+              (presentation during the IETF 96 in Berlin in July 2016 by Juliusz Chroboczek)
+              
+              
     design:
       columns: '2'
   - block: accomplishments
