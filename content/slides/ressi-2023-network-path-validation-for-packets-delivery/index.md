@@ -4,7 +4,7 @@ slides:
   theme: white
   highlight_style: dracula
 authors: []
-title: "RESSI 2023 : Network Path Validation for Packets Delivery"
+title: ressi2023
 date: 2023-04-18T07:20:48.457Z
 tags:
   - network security
