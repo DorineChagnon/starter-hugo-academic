@@ -62,12 +62,12 @@ social:
   #  label: Follow me on Twitter
   #  display:
   #    header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/DorineChagnon
+  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/DorineChagnon
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dorine-c-ba2a65139/
@@ -76,7 +76,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CHAGNON_CV2023_EN_.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
