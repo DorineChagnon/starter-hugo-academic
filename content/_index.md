@@ -57,8 +57,7 @@ sections:
           location: Cesson Sévigné (France)
           date_start: '2022-03'
           date_end: '2022-08'
-          description: Implementation of a cryptographic toolkit to protect the sensitive data of the products in the video chain.
-          
+          description: Implementation of a cryptographic toolkit to protect the sensitive data of the products in the video chain.   
         - title: Intern in data engineering
           company: Veolia Nordics
           company_url: 'https://www.veolia.com'
@@ -67,8 +66,6 @@ sections:
           date_start: '2020-06'
           date_end: '2020-08'
           description: Data studies of unpaid invoices and profit and loss in order to produce reports that meet customer needs.
-          
-          
         - title: Intern in data science
           company: Veolia S.A.
           company_url: 'https://www.veolia.com'
@@ -77,7 +74,6 @@ sections:
           date_start: '2019-06'
           date_end: '2019-07'
           description: Study of time series on water data in order to forecast water consumption and detect leaks in the drinkable water network.
-          
         - title: Intern in computer science applied to neuroscience
           company: Paris Descartes University
           company_url: 'https://u-paris.fr/en/'
@@ -88,7 +84,6 @@ sections:
           description: |2-
               Angle calculation and motion recording with Codamotion software.
               Training workshop on virtual reality to study and heal the brain.
-          
         - title: Intern in netwrok
           company: Paris Diderot University
           company_url: 'https://u-paris.fr/en/'
