@@ -43,7 +43,7 @@ sections:
         - title: PhD student in Computer sciences
           company: University of Clermont-Auvergne
           company_url: 'https://www.uca.fr/'
-          company_logo: org-gc
+          company_logo: logo_uca.png
           location: Aurillac
           date_start: '2022-10-01'
           date_end: '2025-10-01'
